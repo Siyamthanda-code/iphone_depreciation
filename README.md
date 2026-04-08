@@ -7,6 +7,7 @@ How much does an iPhone lose in value the exact day a new generation is announce
 This project builds a predictive machine learning pipeline to forecast the exact resale value of an iPhone based on its age, specifications, and the current market lifecycle. Leveraging real, scraped e-commerce data from the 2026 post-iPhone 17 launch window, this analysis calculates the "Penalty" of not having the newest phone and identifies which features actually hold value on the secondary market.
 
 ## 📊 The Dataset
+Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/jahnavikachhia23/e-commerce-iphone-resale-and-market-intelligence/data).
 
 Unlike synthetic or estimated datasets, this data captures **active, real-world iPhone resale listings** from publicly available e-commerce platforms in the USA (2026).
 
