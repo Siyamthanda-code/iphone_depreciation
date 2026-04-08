@@ -1,4 +1,4 @@
-# 📱 iPhone Resale Depreciation Model (2026 Market Data)
+# 📱 iPhone Resale Depreciation Model
 
 ## 🎯 Project Objective
 
