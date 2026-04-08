@@ -25,8 +25,14 @@ Unlike synthetic or estimated datasets, this data captures **active, real-world 
 ## 📈 Key Visualizations
 
 1.  **The Aggregate Depreciation Curve:** Average resale price vs. years since release.
+   
+   ![Depreciation Screenshot](depreciation_curve.png)
 2.  **Depreciation by Model Type:** Trajectory comparison between Standard/Plus/Mini vs. Pro/Pro Max models.
+
+   ![Depreciation Screenshot](depreciation_by_type.png)
 3.  **The Storage Premium:** Boxplot distribution analyzing if Apple's "Storage Tax" holds up on the secondary market (Focused on iPhone 14 Used).
+
+   ![Storage Screenshot](storage_premium.png)
 
 ## 💡 Key Business Insights
 
