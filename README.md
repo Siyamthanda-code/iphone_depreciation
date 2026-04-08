@@ -53,7 +53,7 @@ The trained model and feature importance analysis revealed fascinating consumer 
 1.  Clone this repository:
     
     ```bash
-    git clone https://github.com/yourusername/iphone_depreciation.git
+    git clone https://github.com/siyamthanda-code/iphone_depreciation.git
     ```
     
 
